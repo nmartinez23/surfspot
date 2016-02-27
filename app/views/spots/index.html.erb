@@ -1,1 +1,9 @@
-<h1>Welcome</h1>
+<% @spots.each do |spot| %>
+	<div>
+		<h1><%= spot.name %></h1><br />
+		<i><%= spot.location %></i><br />
+		<p><%= spot.description %></p><br />
+	</div>
+
+	<hr />
+<% end %>
