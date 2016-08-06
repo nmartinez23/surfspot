@@ -1,4 +1,4 @@
-# Surfspot 
+== Surfspot 
 
 This is a project I'll be working on in my free time. The objective is to build the functionality needed for users to create reviews of their favorite surf spots. Users will be able to upload photos and videos as well as vote and comment on other users' reviews. Ideally, Surfspot will have real time surf conditions for each spot, provided by APIs and users.
 
